@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Ecosystem Overview
+## 🚀 About Go Pantheon Ecosystem
 
 **go-pantheon** delivers a complete game development ecosystem, where each service is expertly crafted to handle specific aspects of modern game infrastructure. Our microservice architecture ensures scalability, maintainability, and seamless integration across all components.
 
