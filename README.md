@@ -27,7 +27,7 @@ Responsible for game logic processing and data management
 <td align="center" width="25%">
 
 ### 🔰 **Janus** 
-**Gateway Service**
+**Game Gateway Service**
 
 Handles client connections and request forwarding
 
@@ -37,7 +37,7 @@ Handles client connections and request forwarding
 <td align="center" width="25%">
 
 ### 🔐 **Lares**
-**Account Service**
+**Game Account Service**
 
 Manages user authentication and account systems
 
@@ -47,7 +47,7 @@ Manages user authentication and account systems
 <td align="center" width="25%">
 
 ### 📊 **Senate**
-**Management Service**
+**Game Management Service**
 
 Provides backend management and operational interfaces
 
